@@ -1,0 +1,9 @@
+The importance of git and github is it gives us the power to review or even restore
+earlier version unlike to other software, Both Git and GitHub give programmers valuable
+version-control functionality so that they can build ongoing coding projects without being
+afraid of messing everything up. GitHub expands upon Git’s basic functionality. It presents
+an extremely intuitive, graphically represented user interface, and provides programmers
+with built-in control and task-management tools. Through GitHub, you can share your code
+with others, giving them the power to make revisions or edits on your various Git branches.
+This makes it possible for entire teams to coordinate together on single projects in
+real-time.

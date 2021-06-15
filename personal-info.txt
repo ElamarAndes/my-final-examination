@@ -1,0 +1,11 @@
+    Name:Elamar Andes
+    Address: Buenavista Irosin Sorsogon
+    Date of Birth: June 27,2000
+    Age: 20
+    Contact no: 09366431938
+    Civil Status: Single
+    Religion: Roman Catholic
+    Mothers Name: Emma Andes
+    Occupation: HouseWife
+    Fathers Name: Edgar Andes
+    Occupation: Farmer
